@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+title: RESOURCE
+description: 相关资源
+keywords: Shu Lab's Resouces
 comments: true
 menu: about
 permalink: /about/
 ---
 
-bzx de chagnshi 
+相关资源
 
 ## 联系
 

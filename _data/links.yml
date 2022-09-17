@@ -1,5 +1,4 @@
-- name: 码志
-  url: http://mazhuang.org
-  src: life
+- name: DLUTShuLab
+  url: https://github.com/DLUTShuLab
+  src: tech
 
--
