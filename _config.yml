@@ -2,18 +2,18 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://abc1169.github.io
+url: https://homepage.github.io
 date_format: "ordinal"
-title: bzx 
-subtitle: disitian 
-description: bzx de changshi 
-keywords: 毕濯玺
+title: The homepage of Shu Lab 
+subtitle: The homepage of Shu Lab 
+description: DUT 
+keywords: DUT
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2021
+since: 2022
 # 源码仓库，请替换成自己的
-repository: abc1169/abc1169.github.io
+# repository: 
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -59,7 +59,7 @@ organization:
 organization_url: 
 github_username: babc
 location: Dalian, China
-email: bzx@qq.com
+email: dut_shulab@163.com
 
 # ---------------- #
 #    Navigation    #
@@ -67,11 +67,11 @@ email: bzx@qq.com
 navs:
   -
     href: /
-    label: cv
+    label: MEMBERS
 
   -
     href: /categories/
-    label: source
+    label: PUBLICATIONS
 
 #   -
 #     href: /archives/
@@ -83,15 +83,15 @@ navs:
 
   -
     href: /wiki/
-    label: wiki
+    label: NEWS
 
   -
     href: /links/
-    label: categories
+    label: RESEARCH-PRJECTS
 
   -
     href: /about/
-    label: other
+    label: RESOURCES
 
 # ---------------- #
 #       RSS        #
