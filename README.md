@@ -1,2 +1,2 @@
-# homepage.github.io
+# dlutshulab.github.io
 The homepage of Shu lab
