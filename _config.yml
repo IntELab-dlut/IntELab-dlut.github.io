@@ -5,7 +5,7 @@ baseurl:
 url: https://dlutshulab.github.io
 date_format: "ordinal"
 title: Shu Lab 
-subtitle: The homepage of Shu Lab 
+subtitle: Intelligent Equipment and Medical Device Laborato
 description: DUT 
 keywords: DUT
 timezone: Asia/Shanghai
@@ -67,15 +67,15 @@ email: dut_shulab@163.com
 navs:
   -
     href: /
-    label: MEMBER
+    label: HOMEPAGE
 
   -
     href: /categories/
     label: PUBLICATION
 
 #   -
-#     href: /archives/
-#     label: 归档
+#    href: /archives/
+#    label: 归档
 
 #   -
 #     href: /open-source/
