@@ -6,8 +6,8 @@ url: https://dlutshulab.github.io
 date_format: "ordinal"
 title: Shu Lab 
 subtitle: Intelligent Equipment and Medical Device Laborato
-description: DUT 
-keywords: DUT
+description: DLUT 
+keywords: DLUT
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
@@ -28,7 +28,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: false
-        start_date: 2020-05-03
+        start_date: 2022-07-01
     # My Popular Repositories
     side_bar_repo:
         enabled: true
@@ -70,28 +70,40 @@ navs:
     label: HOMEPAGE
 
   -
-    href: /categories/
-    label: PUBLICATION
-
-#   -
-#    href: /archives/
-#    label: 归档
-
-#   -
-#     href: /open-source/
-#     label: 开源
+    href: /introduction/
+    label: LAB
 
   -
-    href: /wiki/
-    label: NEW
+    href: /member/
+    label: MEMBER
+
+  -
+    href: /postion/
+    label: OPEN POSTION
+
+ #  -
+ #    href: /categories/
+ #    label: PUBLICATION
+
+  # -
+  #  href: /archives/
+  #  label: 归档
+
+  # -
+  #   href: /open-source/
+  #   label: 开源
+
+ #  -
+ #    href: /wiki/
+ #    label: NEW
 
   -
     href: /links/
-    label: RESEARCH-PRJECT
+    label: RESEARCH
 
   -
     href: /about/
-    label: RESOURCE
+    label: ABOUT
 
 # ---------------- #
 #       RSS        #

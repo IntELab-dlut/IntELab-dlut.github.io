@@ -1,20 +1,22 @@
 ---
-layout: post
+layout: page
 title: LiMing Shu
 categories: MEMBER
 description: A CV to LiMing Shu
 keywords: Introduction, Digital twin, Sensor Fusion, Neuromusculoskeletal modelling, human movement, prosthesis
-topmost: true
+comments: true
+permalink: /member/
 ---
 
 # 舒利明
 
+![](/images/posts/shuliming.png)
+
 教授/博导  
 大连理工大学  
 机械工程学院  
-辽宁省大连市凌工路2号知方楼8019室  
+辽宁省大连市凌工路2号知方楼8019室 
 
-![](/images/posts/shuliming.png)
 
 邮箱:  <l.shu@dlut.edu.cn>  
 ResearchGate:  <https://www.researchgate.net/profile/Liming_Shu>  

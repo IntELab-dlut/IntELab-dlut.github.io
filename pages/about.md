@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RESOURCE
+title: ABOUT
 description: 相关资源
 keywords: Shu Lab's Resouces
 comments: true
@@ -8,7 +8,6 @@ menu: about
 permalink: /about/
 ---
 
-相关资源
 
 ## 联系
 

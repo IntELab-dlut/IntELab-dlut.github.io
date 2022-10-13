@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: page
 title: Intelligent Equipment and Medical Device Laboratory
-categories: MEMBER
+categories: LAB
 description: An introduction to the laboratory
 keywords: Introduction, Digital twin, Sensor Fusion, Neuromusculoskeletal modelling, human movement, prosthesis
-topmost: true
+comments: true
+permalink: /introduction/
 ---
 
 ## About Us

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RESEARCH-PROJECTS
-description: 没有链接的博客是孤独的
+description: 项目
 keywords: 友情链接
 comments: true
 menu: 链接
