@@ -5,7 +5,7 @@ baseurl:
 url: https://dlutshulab.github.io
 date_format: "ordinal"
 title: Shu Lab 
-subtitle: Intelligent Equipment and Medical Device Laborato
+subtitle: Intelligent Equipment and Medical Device Laboratory
 description: DLUT 
 keywords: DLUT
 timezone: Asia/Shanghai
@@ -31,7 +31,7 @@ components:
         start_date: 2022-07-01
     # My Popular Repositories
     side_bar_repo:
-        enabled: true
+        enabled: false
         limit: 5
     # 文章字数统计
     word_count:
@@ -140,40 +140,42 @@ collections:
 #      Comments    #
 # ---------------- #
 # support provider: disqus, gitment, gitalk, utterances, beaudar
-comments_provider: beaudar
+# comments_provider: beaudar
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # disqus 配置参考：https://disqus.com
-disqus:
-    username: 
+# disqus:
+#    username: 
 # gitment 配置参考：https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: mzlogin
-    repo: blog-comments
-    oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+
+# gitment:
+#    owner: mzlogin
+#    repo: blog-comments
+#    oauth:
+#        client_id: d2e1cbbd298958076462
+#        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
-gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+
+# gitalk:
+#    owner: mzlogin
+#    repo: blog-comments
+#    clientID: d2e1cbbd298958076462
+#    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # utterances 配置参考：https://utteranc.es/
-utterances:
-    repo: mzlogin/blog-comments
+# utterances:
+#    repo: mzlogin/blog-comments
 # beaudar 配置参考：https://beaudar.lipk.org/
-beaudar:
-    repo: mzlogin/blog-comments
+# beaudar:
+#    repo: mzlogin/blog-comments
 # 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : false
+# lazy_load_disqus : false
 
 # ---------------- #
 #      Search      #
 # ---------------- #
 simple_jekyll_search:
     # 是否支持全文搜索
-    fulltext: false
+    fulltext: true
     # 最多显示多少条搜索结果
     limit: 10
 
