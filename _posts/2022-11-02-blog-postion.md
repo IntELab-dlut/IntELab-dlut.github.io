@@ -1,25 +1,25 @@
 ---
-layout: page
-title: OPEN POSITON
-categories: POSTION
-description: This is a Joint Research Fellow position from Dalian University of Technology (China) and The University of Tokyo (Japan).
-keywords: joint, pd
-permalink: /postion/
+layout: post
+title: Joint Postdoctoral Research Fellow Position in Human Neuromusculoskeletal Digital Twin at Dalian University of Technology (China) and The University of Tokyo (Japan)
+categories: pd, about
+description: joint
+keywords: pd, joint
+topmost: true
 ---
 
-# Joint Postdoctoral Research Fellow Position in Human Neuromusculoskeletal Digital Twin at Dalian University of Technology (China) and The University of Tokyo (Japan)
+Joint Postdoctoral Research Fellow Position in Human Neuromusculoskeletal Digital Twin at Dalian University of Technology (China) and The University of Tokyo (Japan)
 
 This is a Joint Research Fellow position from Dalian University of Technology (China) and The University of Tokyo (Japan).
 
-1.  Job title/recruitment number: Postdoctoral Research Fellow / 1 positions
+1. Job title/recruitment number: Postdoctoral Research Fellow / 1 positions
 
-2.  Term of Employment: 3 years (As soon as possible after January 1, 2023)
+2. Term of Employment: 3 years (As soon as possible after January 1, 2023)
 
-3.  Renewal of Contract: The contract is renewable on a fiscal year basis (from April 1 to March 31) according to research activity, and research achievements and health conditions.
+3. Renewal of Contract: The contract is renewable on a fiscal year basis (from April 1 to March 31) according to research activity, and research achievements and health conditions.
 
-4.  Working style:  Full-time (1.5 year at DUT, and 1.5 year at UT)
+4. Working style:  Full-time (1.5 year at DUT, and 1.5 year at UT)
 
-5.  Location and salary:
+5. Location and salary:
  DUT Lingshui Campus: No.2, Linggong Road, Ganjingzi District, Dalian City, Liaoning Province, 116024, China
 DUT is one of the top universities in Daian, China. We have the most beautiful beaches and scenery in the whole world! The gross monthly salary in accordance with the Collective Labor Agreement of the Dalian University of Technology, from ¥ 15,000 to 25,000 yuan per month. 
 (300,000 yuan of housing allowance if recognized as Young Talent of Dalian.*)
