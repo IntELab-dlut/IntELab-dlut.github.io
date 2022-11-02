@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Establishment of laboratory
-categories: Basis
+categories: blog
 description: test
 keywords: test
 ---

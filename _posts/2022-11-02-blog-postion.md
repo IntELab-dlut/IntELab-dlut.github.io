@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Joint Postdoctoral Research Fellow Position in Human Neuromusculoskeletal Digital Twin at Dalian University of Technology (China) and The University of Tokyo (Japan)
-categories: pd, about
+categories: pd
 description: joint
 keywords: pd, joint
 topmost: true
