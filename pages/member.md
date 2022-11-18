@@ -39,6 +39,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 ![](/images/posts/毕濯玺.png)
 
 研究生在读  
+E-MAIL:bzxdyx163@163.com  
 2017-2021 大连理工大学  
 2022-至今 大连理工大学
 
@@ -47,6 +48,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 ![](/images/posts/杨天佑.png)
 
 研究生在读  
+E-MAIL:  
 2018-2022 武汉理工大学  
 2022-至今 大连理工大学
 
@@ -54,6 +56,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 ![](/images/posts/孙靖沂.png)
 
 研究生在读  
+E-MAIL:  
 2018-2022 大连海事大学  
 2022-至今 大连理工大学
 
@@ -61,10 +64,12 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 ![](/images/posts/吴茵十.png)
 
 本科在读  
+E-MAIL:  
 2019-至今 大连理工大学 
 
 # 刘雅馨
 ![](/images/posts/刘雅馨.png)
 
 本科在读  
+E-MAIL:  
 2019-至今 中国石油大学（华东）
