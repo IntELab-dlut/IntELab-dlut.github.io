@@ -24,8 +24,10 @@ topmost: true
 <i>* Please contact DUT HR for more details about the policies.</i><p>
 
 <b>UT Tokyo Hongo Campus</b>: Hongo 7-3-1, Bunkyo-ku, Tokyo 153-8505, Japan
-<br/>UT is one of the top public universities in Tokyo, Japan. The gross monthly salary is ¥ 350,000 to 450,000 yen per month.</font><br>
-
+<br/>UT is one of the top public universities in Tokyo, Japan. The gross monthly salary is ¥ 350,000 to 450,000 yen per month.
+</font>
+<br>
+<br>
 <font size=5>6. Job Description:</font><br>
 <font size=4>As a part of the research project "Human Neuromusculoskeletal Digital Twin", the successful candidate will work on projects related to development of human Neuromusculoskeletal Digital Twin from the sensor-fusion based motion capture system to the neuromusculoskeletal model, which in target with the precision medicine of human neuromusculoskeletal system. We are looking for a creative, self-motivated researcher who has the ability and the drive to pursue challenging, interdisciplinary problems in a fast-paced research environment.<br>
 Focus areas:
