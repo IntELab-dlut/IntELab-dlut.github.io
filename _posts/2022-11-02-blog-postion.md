@@ -22,7 +22,7 @@ topmost: true
 <font size=4><b>DUT Lingshui Campus</b>: No.2, Linggong Road, Ganjingzi District, Dalian City, Liaoning Province, 116024, China
 <br/>DUT is one of the top universities in Daian, China. We have the most beautiful beaches and scenery in the whole world! The gross monthly salary in accordance with the Collective Labor Agreement of the Dalian University of Technology, from ¥ 15,000 to 25,000 yuan per month. 
 <br/>(300,000 yuan of housing allowance if recognized as Young Talent of Dalian.*)
-<i>* Please contact DUT HR for more details about the policies.</i><p>
+<br/><i>* Please contact DUT HR for more details about the policies.</i><p>
 
 <b>UT Tokyo Hongo Campus</b>: Hongo 7-3-1, Bunkyo-ku, Tokyo 153-8505, Japan
 <br/>UT is one of the top public universities in Tokyo, Japan. The gross monthly salary is ¥ 350,000 to 450,000 yen per month.<font>
