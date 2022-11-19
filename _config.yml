@@ -4,7 +4,7 @@
 baseurl:
 url: https://dlutshulab.github.io
 date_format: "ordinal"
-title: IntEMD
+title: IntE MeD Lab
 subtitle: Intelligent Equipment and Medical Device Laboratory
 description: DLUT 
 keywords: DLUT
@@ -40,7 +40,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: false
-        image_alt: IntEMD
+        image_alt: IntE MeD Lab
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
 #    wiki:
 #        view: cate
