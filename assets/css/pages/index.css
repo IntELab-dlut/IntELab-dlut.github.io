@@ -39,8 +39,10 @@
 }
 
 .box1 {
-  margin: 20px 300px 20px ;
+  
+  width: 1000px;
   font-size: 20px;
+  margin: auto;
   text-align: justify;
 }
 
@@ -53,7 +55,7 @@
   }
 
   .box3 {
-    margin: 20px 280px 20px ;
+    margin: 20px 100px 75px;
     font-size: 13px;
     text-align: justify;
   }
