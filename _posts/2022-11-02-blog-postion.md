@@ -13,7 +13,7 @@ topmost: true
 <font face="Times New Roman" size=4><br/>&emsp;Postdoctoral Research Fellow / 2 positions</font><br>
 
 <font size=4>2. Term of Employment: </font>
-<font face="Times New Roman" size=4><br/>&emsp;3 years (As soon as possible after January 1, 2023)</font>
+<font face="Times New Roman" size=4><br/>&emsp;3 years (February 1, 2023)</font>
 
 <br>
 <font size=4>3. Renewal of Contract: </font>

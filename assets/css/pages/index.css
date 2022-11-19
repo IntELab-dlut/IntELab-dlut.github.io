@@ -41,8 +41,9 @@
 .box1 {
   margin: 20px 280px 20px ;
   font-size: 20px;
-  text-indent: 0.5cm;
+  text-align: justify;
 }
+
 
 .box1 h1 {
   font-family: 'Times New Roman', Times, serif;
@@ -50,5 +51,5 @@
   color: #000;
   font-size: 30px;
   text-align: center;
-}
+  }
 
