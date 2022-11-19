@@ -25,7 +25,8 @@ topmost: true
 <font size=4>5. Location and Salary:</font>
 <font face="Times New Roman" size=4><br/>&emsp;<b>DUT Lingshui Campus</b>: No.2, Linggong Road, Ganjingzi District, Dalian City, Liaoning Province, 116024, China
 <br/>&emsp;DUT is one of the top universities in Daian, China. We have the most beautiful beaches and scenery in the whole world! The gross monthly salary in accordance with the Collective Labor Agreement of the Dalian University of Technology, from ¥ 15,000 to 25,000 yuan per month. (300,000 yuan of housing allowance if recognized as Young Talent of Dalian.*)
-<br/><i>* Please contact DUT HR for more details about the policies.</i><p>
+<br/><i>* Please contact DUT HR for more details about the policies.(<a href="https://perdep.dlut.edu.cn/info/1103/4847.htm">English</a>、<a href="https://perdep.dlut.edu.cn/info/1103/4849.htm">中文</a>)</i><p>
+
 
 <b>&emsp;UT Tokyo Hongo Campus</b>: Hongo 7-3-1, Bunkyo-ku, Tokyo 153-8505, Japan
 <br/>&emsp;UT is one of the top public universities in Tokyo, Japan. The gross monthly salary is ¥ 350,000 to 450,000 yen per month.<font>
@@ -85,5 +86,5 @@ Focus areas:
 <br/>&emsp;&emsp;•&emsp;Experience in working with human participants, especially clinical populations (e.g., individuals with a stroke)
 </font><br>
 <br>
-<font size=5>You may obtain further information from Prof. Liming Shu (<b>l.shu@dlut.edu.cn</b>) and Prof. Naohiko Sugita (<b>sugi@mfg.t.u-tokyo.ac.jp</b>)</font>
+<font size=4>You may obtain further information from Prof. Liming Shu (<b>l.shu@dlut.edu.cn</b>) and Prof. Naohiko Sugita (<b>sugi@mfg.t.u-tokyo.ac.jp</b>)</font>
 
