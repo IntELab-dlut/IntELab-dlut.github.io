@@ -39,7 +39,7 @@
 }
 
 .box1 {
-  margin: 20px 300px 20px ;
+  margin: 20px 280px 20px ;
   font-size: 20px;
   text-indent: 0.5cm;
 }
@@ -49,5 +49,6 @@
   font-style: italic;
   color: #000;
   font-size: 30px;
+  text-align: center;
 }
 
