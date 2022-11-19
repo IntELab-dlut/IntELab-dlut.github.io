@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://dlutshulab.github.io
+url: https://intelab-dlut.github.io/
 date_format: "ordinal"
 title: IntE MeD Lab
 subtitle: Intelligent Equipment and Medical Device Laboratory
@@ -57,7 +57,7 @@ highlight_theme: base16.monokai.dark
 author: bzx
 organization: 
 organization_url: 
-github_username: DLUTShuLab
+github_username: IntELab-dlut
 location: Dalian, China
 email: dut_shulab@163.com
 

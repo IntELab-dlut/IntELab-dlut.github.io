@@ -8,33 +8,30 @@ topmost: true
 ---
 
 **<font  size=5>Joint Research Fellow position at Dalian University of Technology (China) and The University of Tokyo (Japan)</font>**
-
+<html>
 <font  size=4>1. Job title/recruitment number: </font>
-<font face="Times New Roman" size=4><br/>&emsp;Postdoctoral Research Fellow / 2 positions</font><br>
-
-<font size=4>2. Term of Employment: </font>
+<font face="Times New Roman" size=4><br/>&emsp;Postdoctoral Research Fellow / 2 positions</font>
+</html>
+<font size=4><br/>2. Term of Employment: </font>
 <font face="Times New Roman" size=4><br/>&emsp;3 years (February 1, 2023)</font>
 
-<br>
-<font size=4>3. Renewal of Contract: </font>
-<font face="Times New Roman" size=4><br/>&emsp;The contract is renewable on a fiscal year basis (from April 1 to March 31) according to research activity, and research achievements and health conditions</font><br>
+<font size=4><br/>3. Renewal of Contract: </font>
+<font face="Times New Roman" size=4><br/>&emsp;The contract is renewable on a fiscal year basis (from April 1 to March 31) according to research activity, and research achievements and health conditions</font>
 
-<font size=4>4. Working style:  </font>
-<font face="Times New Roman" size=4><br/>&emsp;Full-time (1.5 year at DUT, and 1.5 year at UT)</font><br>
+<font size=4><br/>4. Working style:  </font>
+<font face="Times New Roman" size=4><br/>&emsp;Full-time (1.5 year at DUT, and 1.5 year at UT)</font>
 
-<font size=4>5. Location and Salary:</font>
+<font size=4><br/>5. Location and Salary:</font>
 <font face="Times New Roman" size=4><br/>&emsp;<b>DUT Lingshui Campus</b>: No.2, Linggong Road, Ganjingzi District, Dalian City, Liaoning Province, 116024, China
 <br/>&emsp;DUT is one of the top universities in Daian, China. We have the most beautiful beaches and scenery in the whole world! The gross monthly salary in accordance with the Collective Labor Agreement of the Dalian University of Technology, from ¥ 15,000 to 25,000 yuan per month. (300,000 yuan of housing allowance if recognized as Young Talent of Dalian.*)
 <br/><i>* Please contact DUT HR for more details about the policies.(<a href="https://perdep.dlut.edu.cn/info/1103/4847.htm">English</a>、<a href="https://perdep.dlut.edu.cn/info/1103/4849.htm">中文</a>)</i><p>
 
 
 <b>&emsp;UT Tokyo Hongo Campus</b>: Hongo 7-3-1, Bunkyo-ku, Tokyo 153-8505, Japan
-<br/>&emsp;UT is one of the top public universities in Tokyo, Japan. The gross monthly salary is ¥ 350,000 to 450,000 yen per month.<font>
-<br>
-<br>
-<font size=4>6. Job Description:</font>
-<br>
-<b><font size=4>Positon 1: "Human Neuromusculoskeletal Digital Twin"</font></b>
+<br/>&emsp;UT is one of the top public universities in Tokyo, Japan. The gross monthly salary is ¥ 350,000 to 450,000 yen per month.<br/><font>
+<font size=4><br/>6. Job Description:</font>
+
+<b><font size=4><br/>Positon 1: "Human Neuromusculoskeletal Digital Twin"</font></b>
 <font face="Times New Roman" size=4><br/>&emsp;As a part of the research project "Human Neuromusculoskeletal Digital Twin", the successful candidate will work on projects related to development of human Neuromusculoskeletal Digital Twin from the sensor-fusion based motion capture system to the neuromusculoskeletal model, which in target with the precision medicine of human neuromusculoskeletal system. We are looking for a creative, self-motivated researcher who has the ability and the drive to pursue challenging, interdisciplinary problems in a fast-paced research environment.<br>
 Focus areas:
 <br/>&emsp;Neuromechanical simulation of human locomotion:
