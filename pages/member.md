@@ -10,7 +10,7 @@ permalink: /member/
 
 # 舒利明
 
-![](/images/posts/shuliming.png)
+![](/images/posts/shuliming.png )
 
 教授/博导  
 大连理工大学  

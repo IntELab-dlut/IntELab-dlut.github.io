@@ -6,12 +6,20 @@ description: joint
 keywords: pd, joint
 topmost: true
 ---
+<style>
+.openpositon1{
+   text-align: justify;
+  
+}
+</style>
 
 **<font  size=5>Joint Research Fellow position at Dalian University of Technology (China) and The University of Tokyo (Japan)</font>**
+
 <html>
+<div class="openpositon1">
 <font  size=4>1. Job title/recruitment number: </font>
 <font face="Times New Roman" size=4><br/>&emsp;Postdoctoral Research Fellow / 2 positions</font>
-</html>
+
 <font size=4><br/>2. Term of Employment: </font>
 <font face="Times New Roman" size=4><br/>&emsp;3 years (February 1, 2023)</font>
 
@@ -85,3 +93,5 @@ Focus areas:
 <br>
 <font size=4>You may obtain further information from Prof. Liming Shu (<b>l.shu@dlut.edu.cn</b>) and Prof. Naohiko Sugita (<b>sugi@mfg.t.u-tokyo.ac.jp</b>)</font>
 
+<div>
+<html>
