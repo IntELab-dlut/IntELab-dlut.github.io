@@ -45,10 +45,10 @@ Focus areas:
 <br/>&emsp;&emsp;•&emsp;Human-in-the-loop optimization
 <br/>&emsp;&emsp;•&emsp;Human subject experiment
 <br/>Job Duties:
-<br/>&emsp;•&emsp;Conduct research in modelling of neuromusculoskeletal system and designing of leg exoskeletons 
-<br/>&emsp;•&emsp;Publish results in reputed journals; prepare reports; present research in conferences
-<br/>&emsp;•&emsp;Write proposals to funding agencies
-<br/>&emsp;•&emsp;Mentor PhD, MS, and undergraduate students
+<br/>&emsp;&emsp;•&emsp;Conduct research in modelling of neuromusculoskeletal system and designing of leg exoskeletons 
+<br/>&emsp;&emsp;•&emsp;Publish results in reputed journals; prepare reports; present research in conferences
+<br/>&emsp;&emsp;•&emsp;Write proposals to funding agencies
+<br/>&emsp;&emsp;•&emsp;Mentor PhD, MS, and undergraduate students
 </font>
 <br>
 <b><font size=4>Positon 2: “Next-generation Ultra-precise Manufacturing System”</font></b>
@@ -68,21 +68,21 @@ Focus areas:
 <br/>&emsp;&emsp;•&emsp;Experimental modal analysis
 <br/>&emsp;&emsp;•&emsp;Condition monitoring based on machine learning
 <br/>Job Duties:
-<br/>&emsp;•&emsp;Conduct research in design and control of manufacturing system 
-<br/>&emsp;•&emsp;Publish results in reputed journals; prepare reports; present research in conferences
-<br/>&emsp;•&emsp;Write proposals to funding agencies
-<br/>&emsp;•&emsp;Mentor PhD, MS, and undergraduate students
+<br/>&emsp;&emsp;•&emsp;Conduct research in design and control of manufacturing system 
+<br/>&emsp;&emsp;•&emsp;Publish results in reputed journals; prepare reports; present research in conferences
+<br/>&emsp;&emsp;•&emsp;Write proposals to funding agencies
+<br/>&emsp;&emsp;•&emsp;Mentor PhD, MS, and undergraduate students
 </font>
 <br>
 <br>
 <font size=4>7. Qualifications and Requirements:</font>
 <br/><font face="Times New Roman" size=4>&emsp;PhD in Mechanical Engineering, Mechatronics, Computer Science, Biomedical Engineering, or Robotics with relevant background in musculoskeletal modeling or robotic exoskeleton development. Strong competencies in dynamics, robotics, and simulation in python, and MATLAB programming are essential.  
 <br/>Knowledge and experience in the following areas will be considered in the assessment:
-<br/>&emsp;•&emsp;Experience in design and control of exoskeletons
-<br/>&emsp;•&emsp;Experience in variable stiffness mechanism and actuators
-<br/>&emsp;•&emsp;Experience in model predictive control
-<br/>&emsp;•&emsp;Experience in biomechanics of human/robotic systems
-<br/>&emsp;•&emsp;Experience in working with human participants, especially clinical populations (e.g., individuals with a stroke)
+<br/>&emsp;&emsp;•&emsp;Experience in design and control of exoskeletons
+<br/>&emsp;&emsp;•&emsp;Experience in variable stiffness mechanism and actuators
+<br/>&emsp;&emsp;•&emsp;Experience in model predictive control
+<br/>&emsp;&emsp;•&emsp;Experience in biomechanics of human/robotic systems
+<br/>&emsp;&emsp;•&emsp;Experience in working with human participants, especially clinical populations (e.g., individuals with a stroke)
 </font><br>
 <br>
 <font size=5>You may obtain further information from Prof. Liming Shu (<b>l.shu@dlut.edu.cn</b>) and Prof. Naohiko Sugita (<b>sugi@mfg.t.u-tokyo.ac.jp</b>)</font>
