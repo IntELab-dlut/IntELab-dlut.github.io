@@ -39,8 +39,6 @@
 }
 
 
-
-
 .box1 {
   width: auto;
   max-width: 1000px;
@@ -72,6 +70,7 @@
     font-size: 0.5em;
     text-align: justify;
     white-space: normal;
+    padding: 0.5em;
   }
 
   @media (max-width:50em){
