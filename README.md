@@ -1,2 +1,2 @@
 # dlutshulab.github.io
-The homepage of Shu lab
+The homepage of  IntEMD
