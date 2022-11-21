@@ -38,7 +38,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 <style>
     #div1,#div2,#div3{
         display: inline-block;
-        border: 2px gray solid;
         width: 185px;
         height: 400px;
         vertical-align: top;
@@ -95,7 +94,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 <style>
     #div4,#div5{
         display: inline-block;
-        border: 2px lightgrey solid;
         width: 185px;
         height: 400px;
         vertical-align: top;
