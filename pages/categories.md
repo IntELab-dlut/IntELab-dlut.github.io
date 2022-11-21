@@ -1,10 +1,10 @@
 ---
 layout: categories
-title: PUBLICATION
-description: 哈哈，你找到了我的文章基因库
-keywords: 分类
+title: NEWS
+description: Lab News
+keywords: new
 comments: false
-menu: 分类
+menu: new
 permalink: /categories/
 ---
 

@@ -34,42 +34,100 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 
 ---
 
-# 毕濯玺
+<!--第一部分 -->
+<style>
+    #div1,#div2,#div3{
+        display: inline-block;
+        border: 2px gray solid;
+        width: 185px;
+        height: 400px;
+        vertical-align: top;
+    }
+    .yty {
+        margin-left: 20px;
+    }
+    .bzx {
+        margin-left: 20px;
+    }
+    .sjy{
+        margin-left: 20px;
+    }
+</style>
 
-![](/images/posts/毕濯玺.png)
 
-研究生在读  
-E-MAIL:bzxdyx163@163.com  
-2017-2021 大连理工大学  
-2022-至今 大连理工大学
+<html>
+<body>
+<h1>研究生</h1>
+<div id="div1" class="bzx">
+    <img src="/images/posts/毕濯玺.png" alt="毕濯玺">
+    <p>
+    毕濯玺
+    <br/>EMAIL:bzxdyx163@163.com
+    <br/>2022-至今 大连理工大学
+    </p>
+</div>
 
-# 杨天佑
+<div id="div2" class="yty">
+    <img src="/images/posts/杨天佑.png">
+    <p>
+    杨天佑
+    <br/>EMAIL:yangtianyou123@mail.dlut.edu.cn
+    <br/>2022-至今 大连理工大学
+    </p>
+</div>
 
-![](/images/posts/杨天佑.png)
+<div id="div3" class="sjy">
+    <img src="/images/posts/孙靖沂.png">
+    <p>
+    孙靖沂
+    <br/>EMAIL:sunjingyi@mail.dlut.edu.cn
+    <br/>2022-至今 大连理工大学
+    </p>
+</div>
+</body>
 
-研究生在读  
-E-MAIL:  
-2018-2022 武汉理工大学  
-2022-至今 大连理工大学
+</html>
 
-# 孙靖沂
-![](/images/posts/孙靖沂.png)
+<!-- 第二部分 -->
 
-研究生在读  
-E-MAIL:  
-2018-2022 大连海事大学  
-2022-至今 大连理工大学
 
-# 吴茵十
-![](/images/posts/吴茵十.png)
 
-本科在读  
-E-MAIL:  
-2019-至今 大连理工大学 
+<style>
+    #div4,#div5{
+        display: inline-block;
+        border: 2px lightgrey solid;
+        width: 185px;
+        height: 400px;
+        vertical-align: top;
+    }
+    .liu {
+        margin-left: 20px;
+    }
+    .wu {
+        margin-top: none;
+        margin-left: 20px;
+    }
+</style>
+<h1>本科生</h1>
+<html>
+<div id="div4" class="wu">
+    <img src="/images/posts/吴茵十.png">
+    <p>
+    吴茵十
+    <br/>EMAIL:wu784867822@mail.dlut.edu.cn
+    <br/>2019-至今 大连理工大学
+    </p>    
+</div>
+<div id="div5" class="liu">
+    <img src="/images/posts/刘雅馨.png">
+    <p>
+    刘雅馨
+    <br/>EMAIL:18365608517@163.com
+    <br/>2019-至今 中国石油大学(华东)
+    </p>    
+</div>
 
-# 刘雅馨
-![](/images/posts/刘雅馨.png)
+</html>
 
-本科在读  
-E-MAIL:  
-2019-至今 中国石油大学（华东）
+
+

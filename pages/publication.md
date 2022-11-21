@@ -7,7 +7,6 @@ keywords: joint, pd
 permalink: /publication/
 ---
 
-# PUBLICATIONS  
 
 ## After 2022　　
 
@@ -50,6 +49,7 @@ permalink: /publication/
 
 ---
 
-##　BOOK AND CHAPTERS__(2)
+### BOOK AND CHAPTERS__(2)
+
 1.	Shu, L*, Sugita, N., Coupling of musculoskeletal biomechanics and joint bio-tribology, in Book “Computational Modelling of Biomechanics and Bio-tribology for the Musculoskeletal System”, 2020, published by Elsevier
 2.	Shu, L*, Hua, X., Sugita, N., Computational modeling of biotribology on artificial knee joint, in Book “Biotribology: Emerging Technologies and Applications”, 2021, published by Taylor & Francis

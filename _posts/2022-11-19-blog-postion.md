@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Joint Postdoctoral Research Fellow Position at Dalian University of Technology (China) and The University of Tokyo (Japan)
-categories: position
+categories: Open-Position
 description: joint
 keywords: pd, joint
 topmost: true
