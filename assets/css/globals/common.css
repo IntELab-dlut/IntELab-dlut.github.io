@@ -182,7 +182,7 @@
     clear: both
 }
 
-.site-footer .octicon-mark-github {
+.site-footer .octicon-home {
     position: absolute;
     top: 38px;
     left: 50%;
@@ -193,7 +193,7 @@
     color: #ccc
 }
 
-.site-footer .octicon-mark-github:hover {
+.site-footer .octicon-home:hover {
     color: #bbb
 }
 
