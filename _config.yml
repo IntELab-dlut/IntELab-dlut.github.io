@@ -89,17 +89,17 @@ navs:
   #   href: /open-source/
   #   label: 开源
 
- #  -
- #    href: /wiki/
- #    label: NEW
+   -
+     href: /wiki/
+     label: NEW
 
   -
     href: /links/
     label: RESEARCH
 
-  -
-    href: /about/
-    label: ABOUT
+#  -
+#    href: /about/
+#    label: ABOUT
 
 # ---------------- #
 #       RSS        #

@@ -45,7 +45,7 @@
   min-width: 320px;
   margin: auto;
   justify-content: center;
-  font-size: 1em;
+  font-size: 2em;
   text-align: justify;
   white-space: normal;
   padding: 2em;
@@ -67,17 +67,17 @@
     min-width: 320px;
     margin: auto;
     justify-content: center;
-    font-size: 0.5em;
+    font-size: 1em;
     text-align: justify;
     white-space: normal;
-    padding: 0.5em;
+    padding: 1em;
   }
 
   @media (max-width:50em){
     .box1  {
-      font-size: 1em;
+      font-size: 2em;
     }
     .box3{
-      font-size: 0.5em;
+      font-size: 1em;
     }
   }
