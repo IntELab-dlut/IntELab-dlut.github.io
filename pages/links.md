@@ -8,7 +8,7 @@ menu: 链接
 permalink: /links/
 ---
 
-> DLUT SHU LAB PROJECTS
+> IntE MeD LAB PROJECTS
 
 <ul>
 {% for link in site.data.links %}
