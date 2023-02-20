@@ -34,21 +34,46 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 
 ---
 
-<!--第一部分 -->
 <style>
-    #div1,#div2,#div3{
+    #div1{
         display: inline-block;
         width: 185px;
         height: 400px;
         vertical-align: top;
     }
-    .yty {
+    .wudi {
         margin-left: 20px;
     }
-    .bzx {
+    
+</style>
+
+<html>
+<h2>Doctorate Student</h2>
+<div id="div1" class="wudi">
+    <img src="/images/posts/吴迪.png" alt="吴迪">
+    <p>
+    吴迪
+    <br/>EMAIL:diwu0720@163.com
+    <br/>2023-至今 大连理工大学
+    </p>
+</div>
+</html>
+
+<!--第一部分 -->
+<style>
+    #div2,#div3,#div4{
+        display: inline-block;
+        width: 185px;
+        height: 400px;
+        vertical-align: top;
+    }    
+    .bizhuoxi {
         margin-left: 20px;
     }
-    .sjy{
+    .yantianyou {
+        margin-left: 20px;
+    }
+    .sunjingyi{
         margin-left: 20px;
     }
 </style>
@@ -56,8 +81,8 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 
 <html>
 <body>
-<h1>研究生</h1>
-<div id="div1" class="bzx">
+<h2>Graduate Student</h2>
+<div id="div2" class="bizhuoxi">
     <img src="/images/posts/毕濯玺.png" alt="毕濯玺">
     <p>
     毕濯玺
@@ -66,7 +91,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     </p>
 </div>
 
-<div id="div2" class="yty">
+<div id="div3" class="yantianyou">
     <img src="/images/posts/杨天佑.png">
     <p>
     杨天佑
@@ -75,7 +100,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     </p>
 </div>
 
-<div id="div3" class="sjy">
+<div id="div4" class="sunjinyi">
     <img src="/images/posts/孙靖沂.png">
     <p>
     孙靖沂
@@ -92,23 +117,23 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 
 
 <style>
-    #div4,#div5{
+    #div5,#div6{
         display: inline-block;
         width: 185px;
         height: 400px;
         vertical-align: top;
     }
-    .liu {
+    .liuyaxin {
         margin-left: 20px;
     }
-    .wu {
+    .wuyinshi {
         margin-top: none;
         margin-left: 20px;
     }
 </style>
-<h1>本科生</h1>
+<h2>Undergraduate Student</h2>
 <html>
-<div id="div4" class="wu">
+<div id="div5" class="wuyinshi">
     <img src="/images/posts/吴茵十.png">
     <p>
     吴茵十
@@ -116,12 +141,45 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>2019-至今 大连理工大学
     </p>    
 </div>
-<div id="div5" class="liu">
+<div id="div6" class="liuyaxin">
     <img src="/images/posts/刘雅馨.png">
     <p>
     刘雅馨
     <br/>EMAIL:18365608517@163.com
     <br/>2019-至今 中国石油大学(华东)
+    </p>    
+</div>
+
+
+<style>
+    #div7,#div8{
+        display: inline-block;
+        width: 185px;
+        height: 400px;
+        vertical-align: top;
+    }
+    .maxin {
+        margin-left: 20px;
+    }
+    .kuangzhibin {
+        margin-top: none;
+        margin-left: 20px;
+    }
+</style>
+<h2>Exchange Student</h2>
+<html>
+<div id="div7" class="maxin">
+    <img src="/images/posts/马欣.png">
+    <p>
+    马欣
+    <br/>EMAIL:xinma309@163.com
+    </p>    
+</div>
+<div id="div8" class="kuangzhibin">
+    <img src="/images/posts/匡志斌.png">
+    <p>
+    匡志斌
+    <br/>EMAIL:borjiginkzb@163.com
     </p>    
 </div>
 
