@@ -9,19 +9,17 @@ permalink: /publication/
 
 
 ## After 2022　　
-1.	Tianze Sun., Xiwang He., Xueguan Song., Liming Shu., Zhonghai Li.,Digital Twin in Medicine: A Key to the Future of Healthcare? Frontiers in Medicine
+1.	Tianze Sun., Xiwang He., Xueguan Song., Liming Shu., Zhonghai Li., (2022) Digital Twin in Medicine: A Key to the Future of Healthcare? Frontiers in Medicine
 
-2.	Zhenzhi Ying., Liming Shu., Naohiko Sugita., Bone Milling: On Monitoring Cutting State and Force Using Sound Signals, Chinese Journal of Mechanical Engineering, 35(1), 61
+2.	Zhenzhi Ying., Liming Shu., Naohiko Sugita., (2022) Bone Milling: On Monitoring Cutting State and Force Using Sound Signals, Chinese Journal of Mechanical Engineering, 35(1), 61
 
-3.  Hashimoto Naoki., Zhenzhi Ying., Nakashima Koki., Liming Shu., Naohiko Sugita,Simultaneous Gesture Classification and Speed Control for Myoelectric Prosthetic Hand Using Joint-Loss Neural Network, IEEE/RSJ International Conference on Intelligent Robots and Systems, 12780-12786
+3.  Hashimoto Naoki., Zhenzhi Ying., Nakashima Koki., Liming Shu., Naohiko Sugita, (2022) Simultaneous Gesture Classification and Speed Control for Myoelectric Prosthetic Hand Using Joint-Loss Neural Network, IEEE/RSJ International Conference on Intelligent Robots and Systems, 12780-12786
 
-4. Liming Shu., Nobuhiro Abe., Shihao Li., Naohiko Sugita., Importance of posterior tibial slope in joint kinematics with an anterior cruciate ligament-deficient knee, Bone & Joint Research, 11(10), 739-750
+4. Liming Shu., Nobuhiro Abe., Shihao Li., Naohiko Sugita., (2022) Importance of posterior tibial slope in joint kinematics with an anterior cruciate ligament-deficient knee, Bone & Joint Research, 11(10), 739-750
 
-5. Yuhao Zhai., Jiaqi Zhao., Guangchao Han., Linzheng Ye., Xijing Zhu., Liming Shu., Dong Wang., Experimental investigation of material removal in elliptical vibration cutting of cortical bone
+5. Yuhao Zhai., Jiaqi Zhao., Guangchao Han., Linzheng Ye., Xijing Zhu., Liming Shu., Dong Wang., (2022) Experimental investigation of material removal in elliptical vibration cutting of cortical bone
 
-6. Meng Meng., Jinzuo Wang., Tianze Sun., Wentao Zhang., Jing Zhang., Liming Shu., Zhonghai Li,Clinical applications and prospects of 3D printing guide templates in orthopaedics. Journal of Orthopaedic Translation, 34, 22-41
-
-7. Liming Shu., Ko Yamamoto., Reina Yoshizaki., Jiang Yao., Takashi Sato., Naohiko Sugita., Multiscale finite element musculoskeletal model for intact knee dynamics, Computers in Biology and Medicine, 141, 105023
+6. Meng Meng., Jinzuo Wang., Tianze Sun., Wentao Zhang., Jing Zhang., Liming Shu., Zhonghai Li,(2022) Clinical applications and prospects of 3D printing guide templates in orthopaedics. Journal of Orthopaedic Translation, 34, 22-41
 
 
 ### BOOK AND CHAPTERS__(1)
