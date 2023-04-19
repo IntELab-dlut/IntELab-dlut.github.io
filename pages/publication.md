@@ -9,7 +9,7 @@ permalink: /publication/
 
 
 ## After 2022　　
-1.	Tianze Sun., Xiwang He., Xueguan Song., **Liming Shu.**, and Zhonghai Li., (2022) Digital Twin in Medicine: A Key to the Future of Healthcare? **Frontiers in Medicine**
+1.	Tianze Sun., Xiwang He., Xueguan Song., **Liming Shu.**, and Zhonghai Li. *, (2022) Digital Twin in Medicine: A Key to the Future of Healthcare? **Frontiers in Medicine**
 
 2.	Zhenzhi Ying., **Liming Shu.**, and Naohiko Sugita., (2022) Bone Milling: On Monitoring Cutting State and Force Using Sound Signals, **Chinese Journal of Mechanical Engineering**, 35(1), 61
 
