@@ -1,2 +1,2 @@
-# dlutshulab.github.io
-The homepage of  IntEMD
+# Intelligent Equipment and Medical Device Laboratory
+
