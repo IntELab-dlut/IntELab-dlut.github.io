@@ -127,7 +127,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:286586939@qq.com
     </p>
 </div>
-<div id="div11" class="樊佳辉">
+<div id="div11" class="fanjiahui">
     <img src="/images/posts/樊佳辉.png">
     <p>
     樊佳辉
