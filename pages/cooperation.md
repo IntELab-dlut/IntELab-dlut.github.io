@@ -35,13 +35,13 @@ permalink: /cooperation/
 <br>
 
 <figure>
-    <img src="/images/pages/cooperation-image/达索系统.png" alt="达索系统" width="500" >
-    <figcaption style="font-size: 24px; color: #333;text-align: center">达索系统</figcaption>
+    <img src="/images/pages/cooperation-image/达索系统集团.png" alt="达索系统集团" width="500" >
+    <figcaption style="font-size: 24px; color: #333;text-align: center">达索系统集团</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/pages/cooperation-image/中国航空沈阳飞机工业集团.png" alt="中国航空沈阳飞机工业集团" width="500" >
-    <figcaption style="font-size: 24px; color: #333;text-align: center">中国航空沈阳飞机工业集团</figcaption>
+    <img src="/images/pages/cooperation-image/中航沈飞股份有限公司.png" alt="中航沈飞股份有限公司" width="500" >
+    <figcaption style="font-size: 24px; color: #333;text-align: center">中航沈飞股份有限公司</figcaption>
 </figure>
 <br>
 
@@ -51,9 +51,5 @@ permalink: /cooperation/
 </figure>
 <br>
 
-<figure>
-    <img src="/images/pages/cooperation-image/大连市中心医院.png" alt="大连市中心医院" width="500" >
-    <figcaption style="font-size: 24px; color: #333;text-align: center">大连市中心医院</figcaption>
-</figure>
 <br>
 注：排名不分先后

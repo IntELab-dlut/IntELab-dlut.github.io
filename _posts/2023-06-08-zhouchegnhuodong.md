@@ -1,0 +1,16 @@
+---
+layout: post
+title: 学术会议：第十一届中国轴承论坛暨轴承前沿技术学术会议
+categories: [Scholarly Activities]
+description: 轴承学术活动
+keywords: pd, research
+topmost: false
+description: 学术活动
+---
+
+
+
+会议邀请院士、协会领导及知名专家学者作大会主题报告  
+
+实验室智能装备小组前往参会  
+
