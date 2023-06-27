@@ -1,36 +1,48 @@
 .home .banner,
 .home .site-header {
-    background: #4183c4;
-    color: #fff
+  
+    
+    color: #000000
 }
 
+.home .banner{
+  width: auto;
+  max-width: 1150px;
+  min-width: 320px;
+  margin: auto;
+  justify-content: center;
+    background-image: url('/images/pages/大方楼1.png');
+    background-repeat: repeat;
+    background-repeat: cover;
+}
+
+
 .home .banner .collection-head {
-    color: #fff;
+    color: #000000;
     background: 0 0;
     box-shadow: none;
-    -webkit-box-shadow: none
-}
+    -webkit-box-shadow: none}
 
 .home .site-header {
     border-bottom: none
 }
 
 .home .site-header h1 a {
-    color: #fff
+    color: #000000
 }
 
 .home .site-header .site-header-nav-item {
-    color: rgba(255, 255, 255, .5)
+    color: rgba(36, 36, 36, 0.981)
 }
 
 .home .site-header .site-header-nav-item:hover {
-    color: #fff
+    color: #0ef819
 }
 
 
 @media (max-width:50em) {
   .home .collapsed .icon-bar {
-    background-color: white;
+    background-color: rgb(32, 21, 187);
   }
 
   .home .collection-head .collection-header {
@@ -41,14 +53,14 @@
 
 .box1 {
   width: auto;
-  max-width: 1200px;
+  max-width: 1100px;
   min-width: 320px;
   margin: auto;
   justify-content: center;
   font-size: 1.2em;
   text-align: justify;
   white-space: normal;
-  padding: 1.2em;
+  padding: 50px;
 }
 
 
@@ -59,7 +71,7 @@
   text-align: center;
   display: flex;
   justify-content: center;
-  line-height: 0em;
+  line-height: 2px;
   }
 
   .box3 {
@@ -71,7 +83,6 @@
     font-size: 14px;
     text-align: justify;
     white-space: normal;
-    padding: 1em;
   }
 
   @media (max-width:50em){
@@ -82,3 +93,8 @@
       font-size: 1em;
     }
   }
+
+.index1{
+  width: 1000px;
+  justify-content: center;
+}

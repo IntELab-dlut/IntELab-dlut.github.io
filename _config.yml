@@ -65,9 +65,23 @@ email: dut_shulab@163.com
 #    Navigation    #
 # ---------------- #
 navs:
+#   -
+#     href: /
+#     label: HOMEPAGE
+
+
   -
-    href: /
-    label: HOMEPAGE
+    href: /categories/
+    label: NEWS
+
+
+  -
+    href: /research/
+    label: RESEARCH
+
+  # -
+  #   href: /links/
+  #   label: Links
 
   -
     href: /member/
@@ -77,9 +91,6 @@ navs:
     href: /publication/
     label: PUBLICATION
 
-  -
-     href: /categories/
-     label: NEWS
 
   # -
   #  href: /archives/
@@ -93,13 +104,15 @@ navs:
 #     href: /wiki/
 #     label: NEW
 
-  -
-    href: /links/
-    label: RESEARCH
 
-#  -
-#    href: /about/
-#    label: ABOUT
+
+  -
+     href: /cooperation/
+     label: COOPERATION  
+
+#   -
+#     href: /about/
+#     label: ABOUT
 
 # ---------------- #
 #       RSS        #
@@ -182,7 +195,7 @@ google:
     analytics_id: UA-80669434-1
     adsense:
         footer: false
-        sidebar: true 
-        sidebar-detail: true 
+        sidebar: false 
+        sidebar-detail: false 
         content_header: false
         content_footer: false

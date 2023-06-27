@@ -8,6 +8,8 @@ menu: new
 permalink: /categories/
 ---
 
+
+
 <section class="container posts-content">
 {% assign sorted_categories = site.categories | sort %}
 {% for category in sorted_categories %}
@@ -23,3 +25,5 @@ permalink: /categories/
 {% endfor %}
 </section>
 <!-- /section.content -->
+
+
