@@ -1,6 +1,6 @@
 ---
 layout: page
-title: member
+title: Member
 categories: MEMBER
 description: A CV to LiMing Shu
 keywords: Introduction, Digital twin, Sensor Fusion, Neuromusculoskeletal modelling, human movement, prosthesis
@@ -35,7 +35,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 ---
 
 <style>
-    #div1, #div9{
+    #div1, #div9, #div18{
         display: inline-block;
         width: 160px;
         height: 300px;
@@ -43,7 +43,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     }
 </style>
 <style>
-.wudi, .chihuashan {
+.wudi, .chihuashan, .fengluming {
     margin-right: 20px;
 }
 </style>
@@ -61,6 +61,13 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <p>
     池华山
     <br/>EMAIL:hschi@foxmail.com
+    </p>
+</div>
+<div id="div18" class="fengluming">
+    <img src="/images/pages/冯鹿明.png" alt="冯鹿明">
+    <p>
+    冯鹿明
+    <br/>EMAIL:FengLM9710@163.com
     </p>
 </div>
 </html>
@@ -91,7 +98,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     </p>
 </div>
 
-<div id="div3" class="yantianyou">
+<div id="div3" class="yangtianyou">
     <img src="/images/pages/杨天佑.png">
     <p>
     杨天佑

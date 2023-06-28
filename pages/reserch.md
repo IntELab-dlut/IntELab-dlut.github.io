@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 categories: RESEARCH
 description: tesearch scope
 keywords: research

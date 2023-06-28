@@ -60,7 +60,8 @@
   font-size: 1.2em;
   text-align: justify;
   white-space: normal;
-  padding: 50px;
+  padding-bottom: 50px;
+  padding: 5px;
 }
 
 
@@ -95,6 +96,7 @@
   }
 
 .index1{
-  width: 1000px;
+  max-width: 100%;
+  height: auto;
   justify-content: center;
 }
