@@ -35,7 +35,7 @@ components:
         limit: 5
     # 文章字数统计
     word_count:
-        enabled: true
+        enabled: false
     # 页面右上角，以及「关于」页面的二维码
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
@@ -54,7 +54,7 @@ highlight_theme: base16.monokai.dark
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Liming Shu
+author: Intelligent Equipment and Medical Device Laboratory
 organization: 
 organization_url: 
 github_username: IntELab-dlut
@@ -126,7 +126,7 @@ markdown: kramdown
 kramdown:
     input: GFM
 highlighter: rouge
-paginate: 10
+paginate: 5
 lsi: false
 quiet: false
 excerpt_separator: "\n\n"

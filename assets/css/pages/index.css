@@ -1,8 +1,6 @@
 .home .banner,
 .home .site-header {
-  
-    
-    color: #000000
+  color: #ffffff
 }
 
 .home .banner{
@@ -17,11 +15,15 @@
 }
 
 
-.home .banner .collection-head {
+.home .banner .collection-head, .collection-head a {
     color: #000000;
     background: 0 0;
     box-shadow: none;
     -webkit-box-shadow: none}
+
+.collection-head a{
+      color:#000000
+}
 
 .home .site-header {
     border-bottom: none

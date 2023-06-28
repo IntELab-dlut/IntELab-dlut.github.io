@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Member
+title: MEMBER
 categories: MEMBER
 description: A CV to LiMing Shu
 keywords: Introduction, Digital twin, Sensor Fusion, Neuromusculoskeletal modelling, human movement, prosthesis
