@@ -12,20 +12,20 @@ permalink: /research/
 
 
 
-### 原位能场传感监测系统
+<!-- ### 原位能场传感监测系统
 <figcaption style="font-size: 18px; color: #333;text-align: left;text-indent: 2em">轴承“原位”自供电无线传感监测技术，面向航空发动机结构的传感系统布局与优化，研发基于压电Duffing振子原理的轻质能量采集器样机，集成多源传感器的并联无线采集（振动、温度、声音等），实现航发主轴承的自供电“原位多源”信号监测与分析，为“复杂工况下设备状态检测”提供支承。</figcaption>
 <figure>
-    <!-- <img src="/images/pages/research/原位能场传感监测系统.png" alt="原位能场传感监测系统" width="500" > -->
+    <img src="/images/pages/research/原位能场传感监测系统.png" alt="原位能场传感监测系统" width="500" >
 </figure>
 <br>
 
 ### 轴承性能试验
 <figcaption style="font-size: 18px; color: #333;text-align: left;text-indent: 2em">基于主轴承性能影响因素收集与分析，为主轴承拟动力学分析与运行过程中主轴承监测数据分析提供个性参数；基于拟动力学方法建立被测主轴承的动态性能分析模型，进行被测主轴承的受载分析以及运动分析；依据轴承动态特性参数与轴承结构性能映射传递规律，对轴承状态监控传感器进行选型与开发，完成传感器的优化分布，构建多传感器融合监测系统；最终建立航发主轴承高置信度服役载荷谱。</figcaption>
 <figure>
-    <!-- <img src="/images/pages/research/轴承性能试验.png" alt="轴承性能试验" width="500" > -->
+    <img src="/images/pages/research/轴承性能试验.png" alt="轴承性能试验" width="500" >
 </figure>
 <br>
-<br>
+<br> -->
 
 
 ## 二、面向精准医疗的人体神经肌骨数字孪生系统
