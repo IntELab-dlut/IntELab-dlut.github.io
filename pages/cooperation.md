@@ -10,6 +10,7 @@ permalink: /cooperation/
 
 > Laboratory Related Cooperation
 
+<div style="text-align: center;">
 <figure>
     <img src="/images/pages/cooperation-image/东京大学.png" alt="东京大学" width="500" >
     <figcaption style="font-size: 24px; color: #333;text-align: center">东京大学</figcaption>
@@ -40,16 +41,17 @@ permalink: /cooperation/
 </figure>
 
 <figure>
-    <img src="/images/pages/cooperation-image/中航沈飞股份有限公司.png" alt="中航沈飞股份有限公司" width="500" >
+    <img src="/images/pages/cooperation-image/中航沈飞股份有限公司.png" alt="中航沈飞股份有限公司" width="400" >
     <figcaption style="font-size: 24px; color: #333;text-align: center">中航沈飞股份有限公司</figcaption>
 </figure>
 <br>
 
 <figure>
-    <img src="/images/pages/cooperation-image/瓦房店轴承集团有限公司.png" alt="瓦房店轴承集团有限公司" width="500" >
+    <img src="/images/pages/cooperation-image/瓦房店轴承集团有限公司.png" alt="瓦房店轴承集团有限公司" width="300" >
     <figcaption style="font-size: 24px; color: #333;text-align: center">瓦房店轴承集团有限公司</figcaption>
 </figure>
 <br>
 
 <br>
+</div>
 注：排名不分先后
