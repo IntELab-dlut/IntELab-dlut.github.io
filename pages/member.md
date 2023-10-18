@@ -35,7 +35,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 ---
 
 <style>
-    #div1, #div9, #div18{
+    #div001{
         display: inline-block;
         width: 160px;
         height: 300px;
@@ -43,18 +43,56 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     }
 </style>
 <style>
-.wudi, .chihuashan, .fengluming {
+.zhangpengfei{
+    margin-right: 20px;
+}
+</style>
+<html>
+<h2>Postdoctoral Researcher</h2>
+<div id="div001" class="zhangpengfei">
+    <img src="/images/pages/张鹏飞.png" alt="张鹏飞">
+    <p>
+    张鹏飞
+    <br/>EMAIL:13171722971@163.com
+    </p>
+</div>
+</html>
+
+
+<style>
+    #div1, #div9, #div18, #div19, #div20{
+        display: inline-block;
+        width: 160px;
+        height: 300px;
+        vertical-align: top;
+    }
+</style>
+<style>
+.wudi, .chihuashan, .fengluming, .liujianhua, .qiji {
     margin-right: 20px;
 }
 </style>
 <html>
 <h2>Doctorate Student</h2>
-
+<div id="div1" class="wudi">
+    <img src="/images/pages/吴迪.png" alt="吴迪">
+    <p>
+    吴迪
+    <br/>EMAIL:diwu0720@163.com
+    </p>
+</div>
 <div id="div9" class="chihuashan">
     <img src="/images/pages/池华山.png" alt="池华山">
     <p>
     池华山
     <br/>EMAIL:hschi@foxmail.com
+    </p>
+</div>
+<div id="div19" class="liujianhua">
+    <img src="/images/pages/刘建华.png" alt="刘建华">
+    <p>
+    刘建华
+    <br/>EMAIL:imjiancg@163.com
     </p>
 </div>
 <div id="div18" class="fengluming">
@@ -64,11 +102,11 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:FengLM9710@163.com
     </p>
 </div>
-<div id="div1" class="wudi">
-    <img src="/images/pages/吴迪.png" alt="吴迪">
+<div id="div20" class="qiji">
+    <img src="/images/pages/戚冀.png" alt="戚冀">
     <p>
-    吴迪
-    <br/>EMAIL:diwu0720@163.com
+    戚冀
+    <br/>EMAIL:joshua_qiji@icloud.com
     </p>
 </div>
 </html>
@@ -166,7 +204,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 
 
 <style>
-    #div14, #div15,#div16, #div17 {
+    #div14, #div15,#div16, #div17,#div21, #div22, #div23, #div24, #div25  {
         display: inline-block;
         width: 160px;
         height: 300px;
@@ -174,7 +212,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     }
 </style>
 <style>
-.lijiaxuan, .wangjunsong, .sunjingyi, .weiyuanyu, .zhengziqi, .fanjiahui {
+.lijiaxuan, .wangjunsong, .fengrufeng, .lijinnuo, .zhangxiao, .liujiahang, .wangzhengguang, .liang, .liulikai{
     margin-right: 20px;
 }
 </style>
@@ -183,29 +221,64 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 <div id="div14" class="lijiaxuan">
     <img src="/images/pages/李嘉轩.png">
     <p>
-    李嘉轩（拔尖计划）
+    李嘉轩
     <br/>EMAIL:1592890733@mail.dlut.edu.cn
     </p>    
 </div>
 <div id="div15" class="wangjunsong">
     <img src="/images/pages/王骏菘.png">
     <p>
-    王骏菘（拔尖计划）
+    王骏菘
     <br/>EMAIL:2251936382@qq.com
     </p>    
 </div>
 <div id="div16" class="fengrufeng">
     <img src="/images/pages/冯如锋.png">
     <p>
-    冯如锋（拔尖计划）
+    冯如锋
     <br/>EMAIL:2360371476@qq.com
     </p>    
 </div>
 <div id="div17" class="lijinnuo">
     <img src="/images/pages/李金诺.png">
     <p>
-    李金诺（拔尖计划）
+    李金诺
     <br/>EMAIL:ljn0729@mail.dlut.edu.cn
+    </p>    
+</div>
+<div id="div21" class="zhangxiao">
+    <img src="/images/pages/张骁.png">
+    <p>
+    张骁
+    <br/>EMAIL:1349536203@qq.com
+    </p>    
+</div>
+<div id="div22" class="liujiahang">
+    <img src="/images/pages/刘佳杭.png">
+    <p>
+    刘佳杭
+    <br/>EMAIL:924174449@qq.com
+    </p>    
+</div>
+<div id="div23" class="wangzhengguang">
+    <img src="/images/pages/王证光.png">
+    <p>
+    王证光
+    <br/>EMAIL:1284713895@mail.dlut.edu.cn
+    </p>    
+</div>
+<div id="div24" class="liang">
+    <img src="/images/pages/李昂.png">
+    <p>
+    李昂
+    <br/>EMAIL:1040286469@qq.com
+    </p>    
+</div>
+<div id="div25" class="liulikai">
+    <img src="/images/pages/刘力蒈.png">
+    <p>
+    刘力蒈
+    <br/>EMAIL:2080096496@qq.com
     </p>    
 </div>
 

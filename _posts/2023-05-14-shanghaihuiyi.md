@@ -12,6 +12,8 @@ description: 学术活动
 
 实验室吴迪博士带领医疗器械小组成员参会（匡志斌、毕濯玺、吴迪、杨天佑）
 
-![](/images/posts/中国国际康复技术与装备大会/上海2.png )  
+---
 
-![](/images/posts/中国国际康复技术与装备大会/上海1.png )  
+![](/images/posts/academic/中国国际康复技术与装备大会/上海2.png )  
+
+![](/images/posts/academic/中国国际康复技术与装备大会/上海1.png )  

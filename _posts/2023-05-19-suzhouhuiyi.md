@@ -12,12 +12,16 @@ description: 学术活动
 
 实验室吴迪博士带领医疗器械小组成员参会并进行汇报（杨天佑、匡志斌、吴迪、毕濯玺）
 
-![](/images/posts/2023中国生物医学工程大会暨创新医疗峰会(BME2023)/苏州1.png )  
+---
 
-![](/images/posts/2023中国生物医学工程大会暨创新医疗峰会(BME2023)/苏州3.png )
+![](/images/posts/academic/2023中国生物医学工程大会暨创新医疗峰会(BME2023)/苏州1.png )  
 
-![](/images/posts/2023中国生物医学工程大会暨创新医疗峰会(BME2023)/苏州4.png ) ![](/images/posts/2023中国生物医学工程大会暨创新医疗峰会(BME2023)/苏州5.png )
+![](/images/posts/academic/2023中国生物医学工程大会暨创新医疗峰会(BME2023)/苏州3.png )
+
+![](/images/posts/academic/2023中国生物医学工程大会暨创新医疗峰会(BME2023)/苏州4.png ) 
+
+![](/images/posts/academic/2023中国生物医学工程大会暨创新医疗峰会(BME2023)/苏州5.png )
 
 
 
-![](/images/posts/2023中国生物医学工程大会暨创新医疗峰会(BME2023)/苏州2.png )
+![](/images/posts/academic/2023中国生物医学工程大会暨创新医疗峰会(BME2023)/苏州2.png )
