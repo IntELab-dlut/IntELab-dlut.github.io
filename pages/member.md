@@ -49,13 +49,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 </style>
 <html>
 <h2>Doctorate Student</h2>
-<div id="div1" class="wudi">
-    <img src="/images/pages/吴迪.png" alt="吴迪">
-    <p>
-    吴迪
-    <br/>EMAIL:diwu0720@163.com
-    </p>
-</div>
+
 <div id="div9" class="chihuashan">
     <img src="/images/pages/池华山.png" alt="池华山">
     <p>
@@ -68,6 +62,13 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <p>
     冯鹿明
     <br/>EMAIL:FengLM9710@163.com
+    </p>
+</div>
+<div id="div1" class="wudi">
+    <img src="/images/pages/吴迪.png" alt="吴迪">
+    <p>
+    吴迪
+    <br/>EMAIL:diwu0720@163.com
     </p>
 </div>
 </html>
