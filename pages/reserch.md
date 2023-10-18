@@ -25,8 +25,10 @@ permalink: /research/
     <img src="/images/pages/research/轴承性能试验.png" alt="轴承性能试验" width="500" >
 </figure>
 <br>
-<br>
 
+---
+<br>
+<br>
 
 ## 二、面向精准医疗的人体神经肌骨数字孪生系统
 
