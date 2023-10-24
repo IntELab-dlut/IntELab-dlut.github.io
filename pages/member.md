@@ -12,24 +12,25 @@ permalink: /member/
 
 ![](/images/pages/shuliming.png )
 
-教授/博导  
-大连理工大学  
-机械工程学院  
-辽宁省大连市凌工路2号知方楼8019室 
-
-
+大连理工大学机械工程学院教授/博导  
+重大装备设计研究所副所长  
+大连理工大学国际合作与交流处 副处长（挂职）  
+  
+  
+办公室位置：辽宁省大连市凌工路2号知方楼8019室  
 邮箱:  <l.shu@dlut.edu.cn>  
 ResearchGate:  <https://www.researchgate.net/profile/Liming_Shu>  
 Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh-CN>  
 
 
 ## AWARDS
-
-2021		YAMAGUCHI Medal, Asian-Pacific Association for Biomechanics  
-2021		Best paper award, Mazak foundation  
-2020		Best paper award, IEEE BioRob 2020  
-2019	            Best oral award, 10th of Asian Pacific Conference on Biomechanics  
-2018	            Best paper finalist award, 8th world congress of biomechanics (ASME)  
+2023 -      **Honor of Best Session Presentation**, The 7th Digital Wein & Inyrllihrny Manufacturing Service Conference  
+2023 -      **Best Presentation Nonmination Award**, The 3th Digital Twin International Conference (DigiTwin 2023)  
+2021 -		**YAMAGUCHI Medal**, Asian-Pacific Association for Biomechanics  
+2021 -		**Best Paper Award**, Mazak foundation  
+2020 -		**Best Paper Award**, IEEE BioRob 2020  
+2019 -	    **Best Oral Award**, 10th of Asian Pacific Conference on Biomechanics  
+2018 -	    **Best Paper Finalist Award**, 8th world congress of biomechanics (ASME)  
 
 
 ---
