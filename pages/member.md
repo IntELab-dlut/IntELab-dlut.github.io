@@ -110,13 +110,14 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:joshua_qiji@icloud.com
     </p>
 </div>
-<div id="div21" class="qiji">
+<div id="div21" class="sunchao">
     <img src="/images/pages/孙超.png" alt="孙超">
     <p>
     孙超
     <br/>EMAIL:chaosun97@163.com
     </p>
 </div>
+
 
 
 
