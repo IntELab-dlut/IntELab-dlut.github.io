@@ -15,8 +15,8 @@ permalink: /member/
 大连理工大学机械工程学院教授、博士生导师  
 重大装备设计研究所副所长  
 大连理工大学国际合作与交流处 副处长（挂职）  
-  
-  
+
+
 办公室位置：辽宁省大连市凌工路2号知方楼8019室  
 邮箱:  <l.shu@dlut.edu.cn>  
 ResearchGate:  <https://www.researchgate.net/profile/Liming_Shu>  
@@ -110,6 +110,16 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:joshua_qiji@icloud.com
     </p>
 </div>
+<div id="div21" class="qiji">
+    <img src="/images/pages/孙超.png" alt="孙超">
+    <p>
+    孙超
+    <br/>EMAIL:chaosun97@163.com
+    </p>
+</div>
+
+
+
 </html>
 
 <!--第一部分 -->
