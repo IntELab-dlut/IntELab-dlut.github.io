@@ -100,7 +100,6 @@ permalink: /research/
 <figure>
     <img src="/images/pages/research/多模态人机交互方向.png" alt="多模态人机交互方向" width="500" >
 </figure>
-
 <br>
 
 ### 在体仿真驱动膝关节假体形性一体化设计
