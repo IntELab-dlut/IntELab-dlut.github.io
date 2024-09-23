@@ -232,6 +232,9 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:2793664761@qq.com
     </p>    
 </div>
+
+</div>
+
 <div id="div21" class="liujiahang">
     <img src="/images/pages/刘佳杭.png">
     <p>
@@ -239,6 +242,8 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:2360371406@qq.com
     </p>
 </div>
+
+
 
 <div id="div22" class="liulikai">
     <img src="/images/pages/刘力蒈.png">
