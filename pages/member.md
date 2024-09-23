@@ -212,7 +212,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:2360371406@qq.com
     </p>    
 </div>
-
 <div id="div15" class="liang">
     <img src="/images/pages/李昂.png">
     <p>
@@ -220,7 +219,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:1040286469@qq.com
     </p>    
 </div>
-
 <div id="div16" class="lijiaxuan">
     <img src="/images/pages/李嘉轩.png">
     <p>
@@ -228,7 +226,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:1592890733@qq.com
     </p>    
 </div>
-
 <div id="div17" class="linliyu">
     <img src="/images/pages/林立雨.png">
     <p>
@@ -236,17 +233,13 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:2793664761@qq.com
     </p>    
 </div>
-
-
-
 <div id="div18" class="liujiahang">
-    <img src="/images/pages/刘佳航.png">
+    <img src="/images/pages/刘佳杭.png">
     <p>
-    刘佳航
+    刘佳杭
     <br/>EMAIL:924174449@qq.com
     </p>    
 </div>
-
 <div id="div19" class="liulikai">
     <img src="/images/pages/刘力蒈.png">
     <p>
@@ -254,7 +247,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:2080096496@qq.com
     </p>    
 </div>
-
 <div id="div20" class="renborui">
     <img src="/images/pages/任博瑞.png">
     <p>
@@ -262,7 +254,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:2996345129@qq.com
     </p>    
 </div>
-
 <div id="div21" class="zhanghaoyuan">
     <img src="/images/pages/张浩源.png">
     <p>
@@ -270,7 +261,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:dlutecf@mail.dlut.edu.cn
     </p>    
 </div>
-
 <div id="div22" class="zhangxiao">
     <img src="/images/pages/张骁.png">
     <p>
@@ -278,6 +268,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:1349536203@qq.com
     </p>    
 </div>
+
 
 </body>
 
@@ -323,8 +314,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     王证光
     <br/>EMAIL:1284713895@mail.dlut.edu.cn
     </p>    
-</div>  
-
+</div> 
 <div id="div18" class="zhaohanxiao">
     <img src="/images/pages/赵寒晓.png">
     <p>
@@ -332,7 +322,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:zhx20030105@163.com
     </p>    
 </div> 
-
 <div id="div19" class="yangbokai">
     <img src="/images/pages/杨博凯.png">
     <p>
@@ -340,7 +329,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:894922992@qq.com
     </p>    
 </div> 
-
 <div id="div20" class="jiazibo">
     <img src="/images/pages/贾自博.png">
     <p>
@@ -348,7 +336,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:2734868070@qq.com
     </p>    
 </div> 
-
 
 
 
