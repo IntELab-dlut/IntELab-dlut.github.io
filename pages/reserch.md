@@ -10,13 +10,14 @@ permalink: /research/
 
 ## 一、面向复杂重大装备的多传感器融合信息物理融合系统
 
-### 航发轴承信息物理系统
+### 基于原位传感监测的航发轴承信息物理系统
 
 <figcaption style="font-size: 18px; color: #333;text-align: left;text-indent: 2em">通过关键零部件上安装的多源传感器和自供电器件，监测设备关键零部件运行状态，结合高置信度建立多物理场耦合模型评估设备整体状态，实现关键零部件的原位、在线监测，结合物理信息神经网络、迁移学习等技术，精确评估整个设备的运行状态、健康状况。</figcaption>
 
 <figure>
-    <img src="/images/pages/research/航发轴承信息物理系统.png" alt="航发轴承信息物理系统" width="500" >
+    <img src="/images/pages/research/基于原位传感监测的航发轴承信息物理系统.png" alt="基于原位传感监测的航发轴承信息物理系统" width="500" >
 </figure>
+
 <br>
 
 ### 轴承性能试验
@@ -29,12 +30,12 @@ permalink: /research/
 
 <br>
 
-### 数字孪生及其在智能工厂的应用
+### 基于多层级信息物理系统的智能化工厂
 
 <figcaption style="font-size: 18px; color: #333;text-align: left;text-indent: 2em">在工业互联网、智能制造和新一代信息技术的推动下，针对传统制造业企业常常面临生产效率低下、资源浪费、品质控制难、信息孤岛和协同困难等问题。在实现工厂自动化与信息化系统搭建的基础上，结合制造过程机理模型与多源数据模型创建工件及机床物理实体的虚拟模型，通过虚实交互反馈、数据融合分析、模型迭代优化等手段完成虚实试验协同互补，实现工厂装备零件的实时性、回顾性、前瞻性全周期性能评测 。</figcaption>
 
 <figure>
-    <img src="/images/pages/research/数字孪生及其在智能工厂的应用.png" alt="数字孪生及其在智能工厂的应用" width="500" >
+    <img src="/images/pages/research/基于多层级信息物理系统的智能化工厂.png" alt="基于多层级信息物理系统的智能化工厂" width="500" >
 </figure>
 
 <br>
@@ -88,7 +89,6 @@ permalink: /research/
     <img src="/images/pages/research/基于AR的髋膝兼容手术导航系统.png" alt="基于AR的髋膝兼容手术导航系统" width="500" >
 </figure>
 <br>
-
 
 
 
