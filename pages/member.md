@@ -315,21 +315,21 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:1284713895@mail.dlut.edu.cn
     </p>    
 </div> 
-<div id="div18" class="zhaohanxiao">
+<div id="div20" class="zhaohanxiao">
     <img src="/images/pages/赵寒晓.png">
     <p>
     赵寒晓
     <br/>EMAIL:zhx20030105@163.com
     </p>    
 </div> 
-<div id="div19" class="yangbokai">
+<div id="div21" class="yangbokai">
     <img src="/images/pages/杨博凯.png">
     <p>
     杨博凯
     <br/>EMAIL:894922992@qq.com
     </p>    
 </div> 
-<div id="div20" class="jiazibo">
+<div id="div22" class="jiazibo">
     <img src="/images/pages/贾自博.png">
     <p>
     贾自博
