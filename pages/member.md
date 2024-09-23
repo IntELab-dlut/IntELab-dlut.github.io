@@ -233,7 +233,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     </p>    
 </div>
 
-</div>
+
 
 <div id="div21" class="liujiahang">
     <img src="/images/pages/刘佳杭.png">
