@@ -226,7 +226,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:1592890733@qq.com
     </p>    
 </div>
-
 <div id="div17" class="linliyu">
     <img src="/images/pages/林立雨.png">
     <p>
@@ -234,7 +233,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:2793664761@qq.com
     </p>    
 </div>
-
 <div id="div18" class="liujiahang">
     <img src="/images/pages/刘佳杭.png">
     <p>
@@ -242,7 +240,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:924174449@qq.com
     </p>    
 </div>
-
 <div id="div19" class="liulikai">
     <img src="/images/pages/刘力蒈.png">
     <p>
