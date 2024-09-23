@@ -127,7 +127,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 <!--第一部分 -->
 
 <style>
-    #div2,#div3,#div4, #div5, #div6, #div10, #div11, #div12, #div13
+    #div2,#div3,#div4, #div5, #div6, #div10, #div11, #div12, #div13, #div14, #div15, #div16, #div20, #div21, #div22, #div23,         #div24, #div25
     {
         display: inline-block;
         width: 160px;
