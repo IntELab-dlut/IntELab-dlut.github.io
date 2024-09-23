@@ -316,11 +316,11 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:ljn0729@mail.dlut.edu.cn
     </p>    
 </div>
-<div id="div17" class="wangzhengguang">
-    <img src="/images/pages/王证光.png">
+<div id="div17" class="linguanjun">
+    <img src="/images/pages/林冠君.png">
     <p>
-    王证光
-    <br/>EMAIL:1284713895@mail.dlut.edu.cn
+    林冠君
+    <br/>EMAIL:2589103903@qq.com
     </p>    
 </div> 
 
