@@ -236,14 +236,12 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 
 
 <div id="div21" class="liujiahang">
-    <img src="/images/pages/刘佳杭.png">
-    <p>
-    刘佳杭
-    <br/>EMAIL:2360371406@qq.com
-    </p>
+     <img src="/images/pages/刘佳杭.png">
+     <p>
+     刘佳杭
+     <br/>EMAIL:2360371406@qq.com
+     </p>
 </div>
-
-
 
 <div id="div22" class="liulikai">
     <img src="/images/pages/刘力蒈.png">
