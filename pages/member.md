@@ -240,8 +240,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     </p>
 </div>
 
-
-
 <div id="div22" class="liulikai">
     <img src="/images/pages/刘力蒈.png">
     <p>
@@ -266,7 +264,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     </p>    
 </div>
 
-
 <div id="div25" class="zhangxiao">
     <img src="/images/pages/张骁.png">
     <p>
@@ -274,6 +271,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:1349536203@qq.com
     </p>    
 </div>
+
 
 
 </body>
