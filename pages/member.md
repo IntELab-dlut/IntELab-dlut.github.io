@@ -284,7 +284,8 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 
 
 <style>
-    #div14, #div15,#div16, #div17,#div21, #div22, #div23, #div24, #div25  {
+    #div15,#div16, #div17,#div20, #div21, #div22
+    {
         display: inline-block;
         width: 160px;
         height: 300px;
@@ -292,11 +293,13 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     }
 </style>
 <style>
-.lijiaxuan, .wangjunsong, .fengrufeng, .lijinnuo, .zhangxiao, .liujiahang, .wangzhengguang, .liang, .liulikai{
+.wangjunsong, .lijinnuo, .wangzhengguang, .zhaohanxiao, .yangbokai, .jiazibo
+{
     margin-right: 20px;
 }
 </style>
 <h2>Undergraduate Student</h2>
+
 <html>
 
 <div id="div15" class="wangjunsong">
