@@ -176,7 +176,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:18365608517@163.com
     </p>    
 </div>
-
 <div id="div10" class="weiyaunyu">
     <img src="/images/pages/魏源禹.png">
     <p>
@@ -237,9 +236,14 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <img src="/images/pages/刘佳杭.png">
     <p>
     刘佳杭
-    <br/>EMAIL:924174449@qq.com
-    </p>    
+    <br/>EMAIL:2360371406@qq.com
+    </p>
 </div>
+
+
+
+
+
 <div id="div19" class="liulikai">
     <img src="/images/pages/刘力蒈.png">
     <p>
