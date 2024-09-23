@@ -225,6 +225,20 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:1592890733@qq.com
     </p>    
 </div>
+<div id="div10" class="weiyaunyu">
+    <img src="/images/pages/魏源禹.png">
+    <p>
+    魏源禹
+    <br/>EMAIL:286586939@qq.com
+    </p>
+</div>
+<div id="div11" class="fanjiahui">
+    <img src="/images/pages/樊佳辉.png">
+    <p>
+    樊佳辉
+    <br/>EMAIL:fan2728321507@163.com
+    </p>
+</div>
 <div id="div17" class="linliyu">
     <img src="/images/pages/林立雨.png">
     <p>
@@ -239,8 +253,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:2360371406@qq.com
     </p>
 </div>
-
-
 
 
 
