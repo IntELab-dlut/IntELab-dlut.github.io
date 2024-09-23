@@ -341,15 +341,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     </p>    
 </div> 
 
-<div id="div20" class="yangbokai">
-    <img src="/images/pages/杨博凯.png">
-    <p>
-    杨博凯
-    <br/>EMAIL:894922992@qq.com
-    </p>    
-</div> 
-
-<div id="div21" class="jiazibo">
+<div id="div20" class="jiazibo">
     <img src="/images/pages/贾自博.png">
     <p>
     贾自博
