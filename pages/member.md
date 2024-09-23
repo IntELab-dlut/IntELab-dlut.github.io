@@ -59,9 +59,9 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 </div>
 </html>
 
-
 <style>
-    #div1, #div9, #div18, #div19, #div20{
+    #div1, #div9, #div18, #div19, #div20, #div21
+    {
         display: inline-block;
         width: 160px;
         height: 300px;
@@ -69,10 +69,12 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     }
 </style>
 <style>
-.wudi, .chihuashan, .fengluming, .liujianhua, .qiji {
+.wudi, .chihuashan, .fengluming, .liujianhua, .qiji , .sunchao
+{
     margin-right: 20px;
 }
 </style>
+
 <html>
 <h2>Doctorate Student</h2>
 <div id="div1" class="wudi">
@@ -123,8 +125,10 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 </html>
 
 <!--第一部分 -->
+
 <style>
-    #div2,#div3,#div4, #div5, #div6, #div10, #div11, #div12, #div13{
+    #div2,#div3,#div4, #div5, #div6, #div10, #div11, #div12, #div13
+    {
         display: inline-block;
         width: 160px;
         height: 300px;
@@ -132,13 +136,15 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     }    
 </style>
 <style>
-.bizhuoxi, .yangtianyou, .sunjingyi, .wuyinshi, .liuyaxin, .weiyuanyu, .zhengziqi, .fanjiahui, .sunjiaze {
+.bizhuoxi, .yangtianyou, .sunjingyi, .wuyinshi, .liuyaxin, .weiyuanyu, .zhengziqi, .fanjiahui, .sunjiaze, .fengrufeng, .liang, .lijiaxuan, .linliyu, .liujiahang, .liulikai, .renborui, .zhanghaoyuan, .zhangxiao
+{
     margin-right: 20px;
 }
 </style>
 
 <html>
 <body>
+
 <h2>Graduate Student</h2>
 <div id="div2" class="bizhuoxi">
     <img src="/images/pages/毕濯玺.png" alt="毕濯玺">
@@ -147,7 +153,6 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:bzxdyx163@163.com
     </p>
 </div>
-
 <div id="div3" class="yangtianyou">
     <img src="/images/pages/杨天佑.png">
     <p>
@@ -233,11 +238,11 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     </p>    
 </div>
 <div id="div21" class="liujiahang">
-     <img src="/images/pages/刘佳杭.png">
-     <p>
-     刘佳杭
-     <br/>EMAIL:2360371406@qq.com
-     </p>
+    <img src="/images/pages/刘佳杭.png">
+    <p>
+    刘佳杭
+    <br/>EMAIL:2360371406@qq.com
+    </p>
 </div>
 <div id="div22" class="liulikai">
     <img src="/images/pages/刘力蒈.png">
@@ -267,6 +272,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:1349536203@qq.com
     </p>    
 </div>
+
 
 
 </body>
