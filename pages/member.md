@@ -225,28 +225,14 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:1592890733@qq.com
     </p>    
 </div>
-<div id="div10" class="weiyaunyu">
-    <img src="/images/pages/魏源禹.png">
-    <p>
-    魏源禹
-    <br/>EMAIL:286586939@qq.com
-    </p>
-</div>
-<div id="div11" class="fanjiahui">
-    <img src="/images/pages/樊佳辉.png">
-    <p>
-    樊佳辉
-    <br/>EMAIL:fan2728321507@163.com
-    </p>
-</div>
-<div id="div17" class="linliyu">
+<div id="div20" class="linliyu">
     <img src="/images/pages/林立雨.png">
     <p>
     林立雨
     <br/>EMAIL:2793664761@qq.com
     </p>    
 </div>
-<div id="div18" class="liujiahang">
+<div id="div21" class="liujiahang">
     <img src="/images/pages/刘佳杭.png">
     <p>
     刘佳杭
@@ -256,7 +242,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 
 
 
-<div id="div19" class="liulikai">
+<div id="div22" class="liulikai">
     <img src="/images/pages/刘力蒈.png">
     <p>
     刘力蒈
@@ -264,7 +250,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     </p>    
 </div>
 
-<div id="div20" class="renborui">
+<div id="div23" class="renborui">
     <img src="/images/pages/任博瑞.png">
     <p>
     任博瑞
@@ -272,7 +258,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     </p>    
 </div>
 
-<div id="div21" class="zhanghaoyuan">
+<div id="div24" class="zhanghaoyuan">
     <img src="/images/pages/张浩源.png">
     <p>
     张浩源
@@ -280,7 +266,8 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     </p>    
 </div>
 
-<div id="div22" class="zhangxiao">
+
+<div id="div25" class="zhangxiao">
     <img src="/images/pages/张骁.png">
     <p>
     张骁
