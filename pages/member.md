@@ -354,6 +354,14 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:zjint@mail.dlut.edu.cn
     </p>    
 </div> 
+<div id="div24" class="xinxiukun">
+    <img src="/images/pages/辛岫坤.png">
+    <p>
+    辛岫坤
+    <br/>EMAIL:1812108217@qq.com
+    </p>    
+</div> 
+
 
 
 
