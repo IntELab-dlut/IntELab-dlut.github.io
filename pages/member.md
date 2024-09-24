@@ -284,7 +284,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 
 
 <style>
-    #div15,#div16, #div17,#div20, #div21, #div22
+    #div15,#div16, #div17,#div20, #div21, #div22, #div23
     {
         display: inline-block;
         width: 160px;
@@ -293,7 +293,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     }
 </style>
 <style>
-.wangjunsong, .lijinnuo, .wangzhengguang, .zhaohanxiao, .yangbokai, .jiazibo
+.wangjunsong, .lijinnuo, .wangzhengguang, .zhaohanxiao, .yangbokai, .jiazibo, .zhangjintao
 {
     margin-right: 20px;
 }
@@ -347,7 +347,13 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     <br/>EMAIL:2734868070@qq.com
     </p>    
 </div> 
-
+<div id="div23" class="zhangjintao">
+    <img src="/images/pages/张金涛.png">
+    <p>
+    张金涛
+    <br/>EMAIL:zjint@mail.dlut.edu.cn
+    </p>    
+</div> 
 
 
 
