@@ -284,7 +284,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
 
 
 <style>
-    #div15,#div16, #div17,#div20, #div21, #div22, #div23
+    #div15,#div16, #div17,#div20, #div21, #div22, #div23, #div24
     {
         display: inline-block;
         width: 160px;
@@ -293,7 +293,7 @@ Google scholar:  <https://scholar.google.co.jp/citations?user=Ofuf9moAAAAJ&hl=zh
     }
 </style>
 <style>
-.wangjunsong, .lijinnuo, .wangzhengguang, .zhaohanxiao, .yangbokai, .jiazibo, .zhangjintao
+.wangjunsong, .lijinnuo, .wangzhengguang, .zhaohanxiao, .yangbokai, .jiazibo, .zhangjintao, .xinxiukun
 {
     margin-right: 20px;
 }
